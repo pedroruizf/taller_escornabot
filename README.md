@@ -12,5 +12,5 @@ El listado de materiales se puede consultar con detalle en:
 
 ## Software
 * [IDE de Arduino](https://www.arduino.cc/en/Main/Software)
-* [Programa de control de parámetros de botonera] (botonera.zip)
+* [Programa de parámetros de botonera](botonera.zip)
 * [Arduino firmware for escornabot](https://github.com/escornabot/arduino/releases)
