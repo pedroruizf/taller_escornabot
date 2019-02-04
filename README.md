@@ -11,6 +11,12 @@ El listado de materiales se puede consultar con detalle en:
 * [Hoja de cálculo de google drive](https://docs.google.com/spreadsheets/d/1IxyG6Sju1tBcJaxYWmWw-s-ZDJP2TgPav1Ozzr1-euI/edit?usp=sharing) creada por Servidor.
 
 ## Software
+### Editor
 * [IDE de Arduino](https://www.arduino.cc/en/Main/Software)
+
+### Escornabot clásico controlado por botones
 * [Programa de parámetros de botonera](botonera.zip)
 * [Arduino firmware for escornabot](https://github.com/escornabot/arduino/releases)
+
+### Escornabot con librería de Arduino
+* [Librería de Arduino para escornabot](https://github.com/escornabot/libreria-arduino)
