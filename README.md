@@ -15,8 +15,14 @@ El listado de materiales se puede consultar con detalle en:
 * [IDE de Arduino](https://www.arduino.cc/en/Main/Software)
 
 ### Escornabot clásico controlado por botones
-* [Programa de parámetros de botonera](botonera.zip)
+* [Programa de parámetros de botonera](/ficheros_taller/software/botonera.zip)
 * [Arduino firmware for escornabot](https://github.com/escornabot/arduino/releases)
 
 ### Escornabot con librería de Arduino
 * [Librería de Arduino para escornabot](https://github.com/escornabot/libreria-arduino)
+
+## Más sobre Escornabot
+* [Github de escornabot](https://github.com/escornabot)
+* [Grupo de Google de escornabot](https://groups.google.com/forum/#!forum/escornabot_users)
+* [Telegram de escornabot](https://t.me/escornafans)
+* [Escornabot con sensores](https://github.com/pedroruizf/escornabot_sensores)
