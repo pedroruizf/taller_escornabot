@@ -17,6 +17,7 @@ El listado de materiales se puede consultar con detalle en:
 ### Escornabot clásico controlado por botones
 * [Programa de parámetros de botonera](/ficheros_taller/software/botonera.zip)
 * [Arduino firmware for escornabot](https://github.com/escornabot/arduino/releases)
+  * [Modificar movimientos escornabot](https://pablorubma.cc/como-modificar-movimientos-escornabot/)
 
 ### Escornabot con librería de Arduino
 * [Librería de Arduino para escornabot](https://github.com/escornabot/libreria-arduino)
