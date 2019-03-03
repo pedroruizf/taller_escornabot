@@ -1,5 +1,5 @@
-# Taller Escornabot DIY
-Aquí pondré los enlaces a los recursos necesarios para desarrollar los contenidos del taller de montaje y programación de Escornabot DIY que se celebrará el 7 y 14 de Marzo de 2019 en el Club de Tecnología, programación y robótica de Granada.
+# Taller Escornabot
+Aquí pondré los enlaces a los recursos necesarios para desarrollar los contenidos del taller de montaje y programación de Escornabot DIY que se celebrará en febrero de 2019 en el Club de Tecnología, programación y robótica de Granada.
 
 ## Documentación fundamental
 * [web fundamental](https://pablorubma.cc/escornabot/version-diy/) es la creada por *Pablo Rubio* en su blog sobre Escornabot DIY.
