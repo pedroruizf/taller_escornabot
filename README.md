@@ -26,3 +26,4 @@ El listado de materiales se puede consultar con detalle en:
 * [Grupo de Google de escornabot](https://groups.google.com/forum/#!forum/escornabot_users)
 * [Telegram de escornabot](https://t.me/escornafans)
 * [Escornabot con sensores](https://github.com/pedroruizf/escornabot_sensores)
+* [Wifi y Bluetooth con Escornabot](https://github.com/fgcoca/3D-Design_Robots_Other/tree/master/Escornabot)
