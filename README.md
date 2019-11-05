@@ -3,7 +3,7 @@ Aquí pondré los enlaces a los recursos necesarios para desarrollar los conteni
 
 ## Documentación fundamental
 * [web fundamental](https://pablorubma.cc/escornabot/version-diy/) es la creada por *Pablo Rubio* en su blog sobre Escornabot DIY.
-* Dentro de ella se encuentra esta [guía de montaje paso a paso](https://drive.google.com/file/d/1zBm-xJoA5dCqq5uivCe1o336cyu683VY/view)
+* Dentro de ella se encuentra esta [guía de montaje paso a paso](https://docs.google.com/document/d/1XV7HYnx3Xt2HxTbKtm30GAizbzd3ppCNeEWpLQ32k9w/edit)
 
 ## Materiales
 El listado de materiales se puede consultar con detalle en:
